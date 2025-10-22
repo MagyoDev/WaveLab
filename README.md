@@ -20,7 +20,7 @@ O projeto permite gerar, visualizar, transmitir e decodificar mensagens em forma
 ```
 WaveLab/
 ├── src/
-├── main.py
+│   ├── main.py
 │   ├── gui.py
 │   ├── wavegen.py
 │   ├── transmitter_fsk.py
